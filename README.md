@@ -9,7 +9,7 @@ https://github.com/2203a511806/AIML2024/blob/main/week3_A3__2203A51806.ipynb
 ML Assignment 1
 https://github.com/2203a511806/AIML2024/blob/main/ML%20Assignment%201%20-1806.pdf      
 ML Assignment 2
-https://github.com/2203a511806/AIML2024/blob/main/2203A51806_ML_ASSIGNMENT_2.ipynb
+https://github.com/2203a511806/AIML2024/blob/main/2203A51806_ML_ASSIGNMENT_2.ipynb        
 ML Assignment 3
 https://github.com/2203a511806/AIML2024/blob/main/2203A51806-ML-(3)..pdf
 
